@@ -24,3 +24,11 @@
 
 - Contributed to open-source projects and collaborated with mentors and maintainers.
 - Worked with Git and GitHub workflows in a collaborative development environment.
+
+## Achievements
+
+🏆 Smart India Hackathon (SIH) 2025 – College Internal Finalist
+
+- Selected among the top teams in the institute-level screening round of Smart India Hackathon.
+- Collaborated with a multidisciplinary team to design and present an innovative solution to a real-world problem statement.
+- Gained experience in problem-solving, teamwork, ideation, and project pitching.
