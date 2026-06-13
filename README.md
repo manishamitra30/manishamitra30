@@ -27,7 +27,7 @@
 
 ## Achievements
 
-🏆 Smart India Hackathon (SIH) 2025 – College Internal Finalist
+### 🏆 Smart India Hackathon (SIH) 2025 – College Internal Finalist
 
 - Selected among the top teams in the institute-level screening round of Smart India Hackathon.
 - Collaborated with a multidisciplinary team to design and present an innovative solution to a real-world problem statement.
