@@ -75,4 +75,104 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
 
+---
+
+# 🚀 Featured Projects
+
+| Project                                                                                                 | Description                                                                                                                                                                                                                                     | Tech Stack                               |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **[Persona Cloak](https://github.com/manishamitra30/personality-cloaking-project)**                     | Privacy-focused AI solution that helps conceal digital personality traits through intelligent data transformation techniques. Designed with an interactive dashboard to make AI-driven privacy protection accessible to users.                  | Python, Streamlit, Machine Learning      |
+| **[SaralIntern](https://github.com/manishamitra30/saralIntern)**                                        | AI-powered internship recommendation platform designed to improve access to career opportunities through personalized recommendations and multilingual support in 10+ regional languages. Developed as part of the Smart India Hackathon (SIH). | Python, Streamlit, Machine Learning, NLP |
+| **[Depression Detector](https://github.com/manishamitra30/depression-detector-ml-model-python)**        | Machine learning application for detecting indicators of depression, anxiety, and related mental health conditions from user-provided data. Focused on early identification and predictive analytics.                                           | Python, Machine Learning, Data Analysis  |
+| **[Phone Number Processing API](https://github.com/manishamitra30/phone-number-processing-api-python)** | Lightweight REST-style API built entirely with Python's standard library that validates, cleans, and analyzes Indian mobile numbers from uploaded CSV files without external dependencies.                                                      | Python, REST API, CSV Processing, JSON   |
+
+---
+
+## 📌 Project Highlights
+
+### 🎭 Persona Cloak
+
+An AI-powered privacy solution designed to reduce exposure of digital personality traits while maintaining data utility.
+
+**My Contributions**
+
+* Designed and developed the interactive Streamlit dashboard.
+* Translated complex AI outputs into user-friendly visualizations.
+* Improved user experience through intuitive workflows and interface design.
+* Integrated frontend components with the underlying machine learning pipeline.
+
+---
+
+### 🌟 SaralIntern
+
+**Smart India Hackathon (SIH) Project**
+
+A hybrid AI system combining machine learning and human-centered design to deliver personalized internship recommendations in multiple regional languages.
+
+**My Contributions**
+
+* Conducted user and problem-domain research to identify accessibility challenges in internship discovery.
+* Prepared project documentation, solution proposals, and presentation materials.
+* Collaborated with team members on feature planning, workflow design, and requirement analysis.
+* Presented and pitched the solution during hackathon evaluations and reviews.
+
+---
+
+### 🧠 Depression Detector
+
+A machine learning project focused on identifying signs of depression, anxiety, and related mental health concerns through predictive analysis.
+
+**My Contributions**
+
+* Developed and integrated the machine learning workflow.
+* Performed data preprocessing, model evaluation, and result interpretation.
+* Built the prediction pipeline and testing framework.
+* Documented project findings and implementation details.
+
+---
+
+### 📱 Phone Number Processing API
+
+A dependency-free REST-style API that processes uploaded CSV files containing phone numbers and generates validation statistics.
+
+**Key Features**
+
+* Validates Indian mobile numbers.
+* Detects duplicates and unique entries.
+* Generates structured JSON reports.
+* Handles CSV uploads without external libraries.
+* Lightweight and production-friendly design.
+
+**My Contributions**
+
+* Designed and implemented the complete application independently.
+* Developed API endpoints using only Python's standard library.
+* Built CSV parsing, validation, and reporting modules.
+* Authored project documentation and testing scenarios.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishamitra30&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishamitra30&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+* 🥈 Smart India Hackathon (SIH) Internal Finalist
+* 🌟 Open Source Contributor – GirlScript Summer of Code 2024
+* 💼 Software Testing Intern – TEOCO Software Pvt. Ltd.
+* 🧪 Experienced in Manual Testing, Test Case Design, and Selenium WebDriver Automation using Java & TestNG
+* ☁️ Skilled in AWS, Docker, Streamlit, and Full-Stack Project Development
+
+---
+
+### 💡 Interests
+
+Software Testing • Quality Assurance • Test Automation • AI/ML Applications • Cloud Technologies • Open Source Contributions • Full-Stack Development
+
 
