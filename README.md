@@ -10,29 +10,6 @@
 
 🚀 Passionate about building reliable software through testing, automation, and continuous learning.
 
-## Experience
-
-### Software Testing Intern (QA)
-**TEOCO Software Pvt. Ltd.** | May 2026 – Aug 2026 | Kolkata
-
-- Created and executed manual test cases based on functional requirements.
-- Automated test scenarios using Java and Selenium WebDriver.
-- Logged, tracked, and verified defects while collaborating with development teams.
-
-### Open Source Contributor
-**GirlScript Summer of Code (GSSoC)** | Oct 2024 – Nov 2024
-
-- Contributed to open-source projects and collaborated with mentors and maintainers.
-- Worked with Git and GitHub workflows in a collaborative development environment.
-
-## Achievements
-
-### 🏆 Smart India Hackathon (SIH) 2025 – College Internal Finalist
-
-- Selected among the top teams in the institute-level screening round of Smart India Hackathon.
-- Collaborated with a multidisciplinary team to design and present an innovative solution to a real-world problem statement.
-- Gained experience in problem-solving, teamwork, ideation, and project pitching.
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -74,6 +51,29 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square\&logo=eclipseide\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
+
+## Experience
+
+### Software Testing Intern (QA)
+**TEOCO Software Pvt. Ltd.** | May 2026 – Aug 2026 | Kolkata
+
+- Created and executed manual test cases based on functional requirements.
+- Automated test scenarios using Java and Selenium WebDriver.
+- Logged, tracked, and verified defects while collaborating with development teams.
+
+### Open Source Contributor
+**GirlScript Summer of Code (GSSoC)** | Oct 2024 – Nov 2024
+
+- Contributed to open-source projects and collaborated with mentors and maintainers.
+- Worked with Git and GitHub workflows in a collaborative development environment.
+
+## Achievements
+
+### 🏆 Smart India Hackathon (SIH) 2025 – College Internal Finalist
+
+- Selected among the top teams in the institute-level screening round of Smart India Hackathon.
+- Collaborated with a multidisciplinary team to design and present an innovative solution to a real-world problem statement.
+- Gained experience in problem-solving, teamwork, ideation, and project pitching.
 
 ---
 
