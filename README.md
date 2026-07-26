@@ -10,6 +10,8 @@
 
 🚀 Passionate about building reliable software through testing, automation, and continuous learning.
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -52,125 +54,131 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
 
+---
+
 ## Experience
 
 ### Software Testing Intern (QA)
+
 **TEOCO Software Pvt. Ltd.** | May 2026 – Aug 2026 | Kolkata
 
-- Created and executed manual test cases based on functional requirements.
-- Automated test scenarios using Java and Selenium WebDriver.
-- Logged, tracked, and verified defects while collaborating with development teams.
+* Created and executed manual test cases based on functional requirements.
+* Automated test scenarios using Java and Selenium WebDriver.
+* Logged, tracked, and verified defects while collaborating with development teams.
 
 ### Open Source Contributor
+
 **GirlScript Summer of Code (GSSoC)** | Oct 2024 – Nov 2024
 
-- Contributed to open-source projects and collaborated with mentors and maintainers.
-- Worked with Git and GitHub workflows in a collaborative development environment.
+* Contributed to open-source projects and collaborated with mentors and maintainers.
+* Worked with Git and GitHub workflows in a collaborative development environment.
+
+---
 
 ## Achievements
 
 ### 🏆 Smart India Hackathon (SIH) 2025 – College Internal Finalist
 
-- Selected among the top teams in the institute-level screening round of Smart India Hackathon.
-- Collaborated with a multidisciplinary team to design and present an innovative solution to a real-world problem statement.
-- Gained experience in problem-solving, teamwork, ideation, and project pitching.
+* Selected among the top teams in the institute-level screening round.
+* Worked on a real-world problem with a multidisciplinary team.
+* Strengthened skills in problem-solving, teamwork, and project pitching.
 
 ---
 
 # 🚀 Featured Projects
 
-| Project                                                                                                 | Description                                                                                                                                                                                                                                     | Tech Stack                               |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **[Persona Cloak](https://github.com/manishamitra30/personality-cloaking-project)**                     | Privacy-focused AI solution that helps conceal digital personality traits through intelligent data transformation techniques. Designed with an interactive dashboard to make AI-driven privacy protection accessible to users.                  | Python, Streamlit, Machine Learning      |
-| **[SaralIntern](https://github.com/manishamitra30/saralIntern)**                                        | AI-powered internship recommendation platform designed to improve access to career opportunities through personalized recommendations and multilingual support in 10+ regional languages. Developed as part of the Smart India Hackathon (SIH). | Python, Streamlit, Machine Learning, NLP |
-| **[Depression Detector](https://github.com/manishamitra30/depression-detector-ml-model-python)**        | Machine learning application for detecting indicators of depression, anxiety, and related mental health conditions from user-provided data. Focused on early identification and predictive analytics.                                           | Python, Machine Learning, Data Analysis  |
-| **[Phone Number Processing API](https://github.com/manishamitra30/phone-number-processing-api-python)** | Lightweight REST-style API built entirely with Python's standard library that validates, cleans, and analyzes Indian mobile numbers from uploaded CSV files without external dependencies.                                                      | Python, REST API, CSV Processing, JSON   |
+| Project                                                                                                 | Description                                                                                                                                                                                                            | Tech Stack                                 |
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **[Autonomous Choke Controller](https://github.com/manishamitra30/autonomous-choke-controller)**        | AI-driven Model Predictive Control (MPC) system with a digital twin to optimize choke valve performance in oil & gas systems. Focuses on real-time decision-making, disturbance handling, and production optimization. | Python, Control Systems, AI/ML, Simulation |
+| **[Persona Cloak](https://github.com/manishamitra30/personality-cloaking-project)**                     | Privacy-focused AI solution to conceal digital personality traits using intelligent data transformation techniques with an interactive dashboard.                                                                      | Python, Streamlit, Machine Learning        |
+| **[SaralIntern](https://github.com/manishamitra30/saralIntern)**                                        | AI-powered internship recommendation system with multilingual support (10+ languages), built for Smart India Hackathon.                                                                                                | Python, Streamlit, ML, NLP                 |
+| **[Depression Detector](https://github.com/manishamitra30/depression-detector-ml-model-python)**        | ML-based system for detecting early signs of depression and anxiety using predictive analytics.                                                                                                                        | Python, Machine Learning                   |
+| **[Phone Number Processing API](https://github.com/manishamitra30/phone-number-processing-api-python)** | Lightweight REST-style API for validating and analyzing Indian phone numbers from CSV files.                                                                                                                           | Python, REST API                           |
 
 ---
 
 ## 📌 Project Highlights
 
+### ⚙️ Autonomous Choke Controller
+
+An advanced engineering project that simulates an **AI-driven control system with a digital twin** for optimizing choke valve performance in real-time.
+
+**Key Contributions**
+
+* Designed a Model Predictive Control (MPC) based system for intelligent decision-making.
+* Built a digital twin to simulate real-world oil & gas production scenarios.
+* Implemented disturbance handling and optimization strategies.
+* Developed a system focused on reliability, efficiency, and automation.
+
+---
+
 ### 🎭 Persona Cloak
 
-An AI-powered privacy solution designed to reduce exposure of digital personality traits while maintaining data utility.
+AI-powered privacy solution to reduce exposure of digital personality traits.
 
 **My Contributions**
 
-* Designed and developed the interactive Streamlit dashboard.
-* Translated complex AI outputs into user-friendly visualizations.
-* Improved user experience through intuitive workflows and interface design.
-* Integrated frontend components with the underlying machine learning pipeline.
+* Developed Streamlit dashboard
+* Improved UX and visualization
+* Integrated ML pipeline with UI
 
 ---
 
 ### 🌟 SaralIntern
 
-**Smart India Hackathon (SIH) Project**
-
-A hybrid AI system combining machine learning and human-centered design to deliver personalized internship recommendations in multiple regional languages.
+AI-based internship recommendation system (SIH Project)
 
 **My Contributions**
 
-* Conducted user and problem-domain research to identify accessibility challenges in internship discovery.
-* Prepared project documentation, solution proposals, and presentation materials.
-* Collaborated with team members on feature planning, workflow design, and requirement analysis.
-* Presented and pitched the solution during hackathon evaluations and reviews.
+* Conducted user research
+* Designed workflows and documentation
+* Contributed to planning and pitching
 
 ---
 
 ### 🧠 Depression Detector
 
-A machine learning project focused on identifying signs of depression, anxiety, and related mental health concerns through predictive analysis.
+ML system for mental health prediction
 
 **My Contributions**
 
-* Developed and integrated the machine learning workflow.
-* Performed data preprocessing, model evaluation, and result interpretation.
-* Built the prediction pipeline and testing framework.
-* Documented project findings and implementation details.
+* Built ML pipeline
+* Performed preprocessing & evaluation
+* Documented results
 
 ---
 
 ### 📱 Phone Number Processing API
 
-A dependency-free REST-style API that processes uploaded CSV files containing phone numbers and generates validation statistics.
+CSV-based phone number validation API
 
 **Key Features**
 
-* Validates Indian mobile numbers.
-* Detects duplicates and unique entries.
-* Generates structured JSON reports.
-* Handles CSV uploads without external libraries.
-* Lightweight and production-friendly design.
-
-**My Contributions**
-
-* Designed and implemented the complete application independently.
-* Developed API endpoints using only Python's standard library.
-* Built CSV parsing, validation, and reporting modules.
-* Authored project documentation and testing scenarios.
+* Validation, duplicate detection
+* JSON report generation
+* No external dependencies
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishamitra30&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishamitra30&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishamitra30&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishamitra30&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-* 🥈 Smart India Hackathon (SIH) Internal Finalist
-* 🌟 Open Source Contributor – GirlScript Summer of Code 2024
-* 💼 Software Testing Intern – TEOCO Software Pvt. Ltd.
-* 🧪 Experienced in Manual Testing, Test Case Design, and Selenium WebDriver Automation using Java & TestNG
-* ☁️ Skilled in AWS, Docker, Streamlit, and Full-Stack Project Development
+* 🥈 Smart India Hackathon Internal Finalist
+* 🌟 GSSoC Open Source Contributor
+* 💼 Software Testing Intern @ TEOCO
+* 🧪 Selenium + TestNG Automation
+* ☁️ AWS, Docker, Full-Stack Development
 
 ---
 
-### 💡 Interests
+## 💡 Interests
 
-Software Testing • Quality Assurance • Test Automation • AI/ML Applications • Cloud Technologies • Open Source Contributions • Full-Stack Development
+Software Testing • QA Automation • AI/ML • Cloud • Open Source • Full-Stack Development
