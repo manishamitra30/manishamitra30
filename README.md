@@ -26,9 +26,9 @@
 
 💻 **Full Stack Developer** with a strong interest in Software Testing, QA Automation, and Open Source.
 
-🌱 Currently learning **Selenium WebDriver, TestNG, React, and Android Development**.
+🌱 Currently learning **Spring Boot & React**.
 
-🚀 Passionate about building reliable software through testing, automation, and continuous learning.
+🚀 Passionate about building reliable software through continuous learning.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E91E8C&height=2&section=header" width="100%" alt=""/>
 
