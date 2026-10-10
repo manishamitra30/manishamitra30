@@ -20,14 +20,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E91E8C&height=2&section=header" width="100%" alt=""/>
 
-## 🚧 Currently Building
-
-**[TestForge](https://github.com/manishamitra30/testforge)** &nbsp; ![Status](https://img.shields.io/badge/status-in_progress-orange?style=flat-square)
-
-A test automation project I'm actively building. The repo is a work in progress, so expect frequent updates and a fuller README as it takes shape.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E91E8C&height=2&section=header" width="100%" alt=""/>
-
 ## 💖 About Me
 
 🎓 B.Tech CSE Student @ **VIT Bhopal** (2023–2027)
@@ -109,6 +101,7 @@ A test automation project I'm actively building. The repo is a work in progress,
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
+| **[TestForge](https://github.com/manishamitra30/testforge)** 🚧 *In progress* | A test automation project I'm actively building. More details coming soon as development continues. | Docker |
 | **[Autonomous Choke Controller](https://github.com/manishamitra30/autonomous-choke-controller)** | AI-driven Model Predictive Control (MPC) system with a digital twin to optimize choke valve performance in oil & gas systems. Focuses on real-time decision-making, disturbance handling, and production optimization. | Python, Control Systems, AI/ML, Simulation |
 | **[Persona Cloak](https://github.com/manishamitra30/personality-cloaking-project)** | Privacy-focused AI solution to conceal digital personality traits using intelligent data transformation techniques with an interactive dashboard. | Python, Streamlit, Machine Learning |
 | **[SaralIntern](https://github.com/manishamitra30/saralIntern)** | AI-powered internship recommendation system with multilingual support (10+ languages), built for Smart India Hackathon. | Python, Streamlit, ML, NLP |
