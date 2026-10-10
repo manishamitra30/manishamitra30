@@ -20,6 +20,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E91E8C&height=2&section=header" width="100%" alt=""/>
 
+## 🚧 Currently Building
+
+**[TestForge](https://github.com/manishamitra30/testforge)** &nbsp; ![Status](https://img.shields.io/badge/status-in_progress-orange?style=flat-square)
+
+A test automation project I'm actively building. The repo is a work in progress, so expect frequent updates and a fuller README as it takes shape.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E91E8C&height=2&section=header" width="100%" alt=""/>
+
 ## 💖 About Me
 
 🎓 B.Tech CSE Student @ **VIT Bhopal** (2023–2027)
