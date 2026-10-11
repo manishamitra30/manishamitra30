@@ -26,9 +26,9 @@
 
 💻 **Full Stack Developer** with a strong interest in Software Testing, QA Automation, and Open Source.
 
-🌱 Currently learning **Spring Boot & React**.
+🌱 Currently learning **Selenium WebDriver, TestNG, React, and Android Development**.
 
-🚀 Passionate about building reliable software through continuous learning.
+🚀 Passionate about building reliable software through testing, automation, and continuous learning.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E91E8C&height=2&section=header" width="100%" alt=""/>
 
@@ -101,16 +101,47 @@
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
-| **[TestForge](https://github.com/manishamitra30/testforge)** 🚧 *In progress* | A test automation project I'm actively building. More details coming soon as development continues. | Docker |
+| **[TestForge](https://github.com/manishamitra30/testforge)** 🚧 *In Progress* | Full-stack test automation project currently under development, with a separate backend and frontend and a PostgreSQL database running through Docker Compose. | Java, PostgreSQL, Docker |
+| **[Business OS](https://github.com/manishamitra30/business_os)** | Business analytics dashboard that analyzes sales, customer, inventory and expense data, with a Python backend and a Next.js frontend. | Python, Next.js, TypeScript |
 | **[Autonomous Choke Controller](https://github.com/manishamitra30/autonomous-choke-controller)** | AI-driven Model Predictive Control (MPC) system with a digital twin to optimize choke valve performance in oil & gas systems. Focuses on real-time decision-making, disturbance handling, and production optimization. | Python, Control Systems, AI/ML, Simulation |
 | **[Persona Cloak](https://github.com/manishamitra30/personality-cloaking-project)** | Privacy-focused AI solution to conceal digital personality traits using intelligent data transformation techniques with an interactive dashboard. | Python, Streamlit, Machine Learning |
 | **[SaralIntern](https://github.com/manishamitra30/saralIntern)** | AI-powered internship recommendation system with multilingual support (10+ languages), built for Smart India Hackathon. | Python, Streamlit, ML, NLP |
 | **[Depression Detector](https://github.com/manishamitra30/depression-detector-ml-model-python)** | ML-based system for detecting early signs of depression and anxiety using predictive analytics. | Python, Machine Learning |
 | **[Phone Number Processing API](https://github.com/manishamitra30/phone-number-processing-api-python)** | Lightweight REST-style API for validating and analyzing Indian phone numbers from CSV files. | Python, REST API |
+| **[OrangeHRM Cucumber Automation](https://github.com/manishamitra30/OrangeHRM-Cucumber-Automation)** | BDD-style test automation suite for the OrangeHRM application using Cucumber. | Cucumber, BDD, Test Automation |
+| **[Cognizant Deep Skilling – Java & React](https://github.com/manishamitra30/Cognizant-Deep-Skilling---Java-React)** | Portfolio of solutions and projects from the Cognizant Deep Skilling Java Full Stack track, covering design patterns, DSA, SQL, REST APIs and a React frontend. | Java, Spring Boot, React, MySQL, JUnit |
 
 ### 📌 Project Highlights
 
 <sub>Click a project to expand 👇</sub>
+
+<details>
+<summary><b>🚧 TestForge</b> — <i>In Progress</i></summary>
+<br/>
+
+A full-stack test automation project that I am actively building.
+
+**What's in it so far**
+
+- Separate backend and frontend modules in one repository
+- PostgreSQL 15 database containerized with Docker Compose
+- Java-based codebase under active development
+
+</details>
+
+<details>
+<summary><b>📊 Business OS</b></summary>
+<br/>
+
+A business analytics dashboard that turns sales, customer, inventory and expense data into insights.
+
+**Key Features**
+
+- Python backend with data-loading and analytics services
+- Next.js (TypeScript) frontend for the dashboard
+- Mock data generator producing customer, transaction, product, inventory and expense datasets
+
+</details>
 
 <details>
 <summary><b>⚙️ Autonomous Choke Controller</b></summary>
@@ -180,6 +211,35 @@ CSV-based phone number validation API
 - Validation, duplicate detection
 - JSON report generation
 - No external dependencies
+
+</details>
+
+<details>
+<summary><b>🥒 OrangeHRM Cucumber Automation</b></summary>
+<br/>
+
+BDD-style automated testing for the OrangeHRM application.
+
+**Key Features**
+
+- Behavior-driven test scenarios written with Cucumber
+- Automated checks of OrangeHRM user flows
+
+</details>
+
+<details>
+<summary><b>🎓 Cognizant Deep Skilling – Java & React</b></summary>
+<br/>
+
+Solutions and projects from the Cognizant Deep Skilling Java Full Stack program.
+
+**Topics Covered**
+
+- Design patterns and DSA exercises
+- Advanced SQL
+- Unit testing with JUnit and Mockito
+- Spring Boot REST APIs and Spring Data JPA
+- React frontend with API integration
 
 </details>
 
